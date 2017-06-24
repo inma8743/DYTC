@@ -19,7 +19,7 @@
                            </a>
                        </div>
 						<%} else{%>
-							 <span class="skills"><%=id %>(<%=name %>)님 환영합니다</span>
+							 <span class="skills"><%=id %>(<%=name %>)님 환영합니다!!!</span>
 						<% }%>
                        
                     </div>
